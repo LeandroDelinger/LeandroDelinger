@@ -1,6 +1,6 @@
-### Oi, eu sou o Leandro Delinger!
+### Oi, eu sou o Leandro Delinger! Sou um desenvolvedor front-end
 
-- 🌱 Estudando React.js
+- 🌱 Estudando React Native
 - 📫 Entre em contato pelo email: leandro.delinger@gmail.com
 
 
